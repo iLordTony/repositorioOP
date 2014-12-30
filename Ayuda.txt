@@ -1,0 +1,7 @@
+Como sincronizar los repositorios
+1.- Usar $ git fetch origin
+	Esto baja los archivos a la rama origin/master
+2.- Usar $ git merge origin/master
+	Esto hace una fusion de la rama master y origin/master
+3.- Para subir cambios se usa $ git push origin master
+4.- Para conectarse a un repo se usa $ git remote add origin + URL
